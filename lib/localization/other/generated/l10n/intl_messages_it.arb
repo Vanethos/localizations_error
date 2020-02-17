@@ -1,0 +1,8 @@
+{
+  "textIntroFirstPageTitle": "Altro",
+  "@textIntroFirstPageTitle": {
+    "description": "[Intro Screen] Intro Page 1 Title",
+    "type": "text",
+    "placeholders": {}
+  }
+}

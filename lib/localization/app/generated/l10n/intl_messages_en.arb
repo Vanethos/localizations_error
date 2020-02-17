@@ -1,0 +1,9 @@
+{
+  "@@last_modified": "2020-01-15T16:25:23.753463",
+  "textIntroFirstPageTitle": "Welcome to the App!!",
+  "@textIntroFirstPageTitle": {
+    "description": "[Intro Screen] Intro Page 1 Title",
+    "type": "text",
+    "placeholders": {}
+  }
+}
